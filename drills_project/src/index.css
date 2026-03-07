@@ -1,0 +1,48 @@
+*{
+  margin: 0px;
+  padding: 0px;
+   box-sizing: border-box;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+
+  }
+
+  body{
+    height: 100%;
+    width: 100%;
+    
+  }
+
+
+  .parent{
+      height: 100%;
+      width: 100%;
+      color: white;
+  }
+  .card{
+    padding: 30px;
+    width: 300px;
+    border-radius: 20px;
+    background-color: rgb(39, 37, 37);
+    text-align: center;
+
+
+  }
+
+  .card p{
+    margin: 20px;
+  }
+  .card img{
+    height: 200px;
+    width: 300px;
+    object-fit: cover;
+  }
+
+  button{
+    padding: 20px 30px ;
+      text-align: center;
+      background-color: #333;
+        color: white;
+
+        border-radius: 3px;
+  }

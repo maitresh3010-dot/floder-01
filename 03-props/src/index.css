@@ -1,0 +1,39 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body{
+  height: 100%;
+  width: 100%;
+}
+.parent{
+  display: flex;
+  
+  flex-wrap:wrap ;
+  padding: 20px;
+  background-color: burlywood;
+
+}
+.card img{
+  height: 100px;
+  width: 100px;
+  object-fit: cover;
+  border-radius: 3px;
+}
+.card{
+  border: solid 2px black;
+  width: 300px;
+  padding: 20px;
+  text-align: center;
+  border-radius: 5px;
+}
+button{
+  height: 2px;
+  border: solid 3px black;
+  background-color: azure;
+  border-radius: 10px;
+  padding: 20px 10px;
+
+}

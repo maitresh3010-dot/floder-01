@@ -1,0 +1,14 @@
+.header{
+    background-color: rgb(184, 151, 151);
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
+
+button{
+  background-color: aqua;
+  width: fit-content;
+  padding: 10px 20px;
+  border-radius:5px ;
+  margin: 5px;}

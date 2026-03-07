@@ -1,0 +1,27 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+html, body{
+  height: 100%;
+  width: 100%;
+
+} 
+
+.p1{
+  height: 100vh;
+  width: 100%;
+  background-color: rgb(173, 147, 147);
+}
+.p2{
+  height: 100vh;
+  width: 100%;
+  background-color: black;
+}
+.p3{
+  height: 100vh;
+  width: 100%;
+  background-color: rgb(125, 212, 154);
+}
