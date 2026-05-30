@@ -3,7 +3,7 @@ import Cards from './component/cards'
 
 const App = () => {
   return (
-    <Cards  user='maitresh'/>
+    <Cards  user='mairesh'/>
   )
 }
 
